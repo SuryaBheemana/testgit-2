@@ -12,6 +12,5 @@ def mul(a,b):
 def div(a,b):
     if b==0:
         return 'infinity'
-
     return a/b
 
